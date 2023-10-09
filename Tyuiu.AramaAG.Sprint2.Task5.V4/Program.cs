@@ -28,7 +28,7 @@ namespace Tyuiu.AramaAG.Sprint2.Task5.V4
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             int value;
-            Console.WriteLine("Введите порядковый масти карты:");
+            Console.WriteLine("Введите порядковый номер масти карты:");
             value = Convert.ToInt32(Console.ReadLine());
             string res;
             if (value < 1 || value > 4)
