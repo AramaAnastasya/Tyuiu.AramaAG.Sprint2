@@ -12,7 +12,7 @@ namespace Tyuiu.AramaAG.Sprint2.Task0.V18
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Арама А.Г. | СМАРТб-23-1";
+            Console.Title = "Спринт #2 | Выполнил: Арама А.Г. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
