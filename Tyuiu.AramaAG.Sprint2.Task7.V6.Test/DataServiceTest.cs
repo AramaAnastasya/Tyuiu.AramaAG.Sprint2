@@ -14,7 +14,7 @@ namespace Tyuiu.AramaAG.Sprint2.Task7.V6.Test
             double x = 1.0;
             double y = 1.5;
             bool res = ds.CheckDotInShadedArea(x, y);
-            Assert.AreEqual(true, res);
+            Assert.AreEqual(true, res); 
         }
     }
 }
